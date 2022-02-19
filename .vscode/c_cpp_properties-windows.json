@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Windows_10",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "C:/Users/harish.96/Downloads/Ap/mingw64/bin/g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
